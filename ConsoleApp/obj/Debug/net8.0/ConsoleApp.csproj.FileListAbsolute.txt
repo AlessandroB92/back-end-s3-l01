@@ -1,0 +1,14 @@
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\aless\Desktop\corsofs2023\BACK-END\EPICODE-S3-ASP.NET-WEBFORM\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
